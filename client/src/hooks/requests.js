@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:8000'
+const API_URL = 'https://rocky-fjord-66825.herokuapp.com'
 
 // Load planets and return as JSON.
 async function httpGetPlanets() {
